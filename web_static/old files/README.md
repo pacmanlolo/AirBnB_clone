@@ -1,1 +1,0 @@
-All old files will always be moved to the old files folder

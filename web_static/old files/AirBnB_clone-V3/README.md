@@ -1,3 +1,0 @@
-# AirBnB Clone - The Console
-
-
